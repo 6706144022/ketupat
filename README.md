@@ -1,0 +1,2 @@
+# ketupat
+faktorial ketupat
